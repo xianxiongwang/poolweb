@@ -1,18 +1,8 @@
 .git
-.idea
 .project
 *.iml
 *.class
 */bin
-*/.*
-*/*.iml
 */target
 */logs
-conf/
-.settings
-.settings/*
-.metadata
-.metadata/*
-.recommenders/*
-.recommenders
 
